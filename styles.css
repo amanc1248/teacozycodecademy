@@ -32,8 +32,8 @@ main {
 }
 .our__mission {
   text-align: center;
-  background-color: yellow;
+  background-color: black;
   position: absolute;
   top: 50%;
-  width: 90%;
+  width: 1200px;
 }

@@ -84,3 +84,10 @@ main {
   margin: 0 20px;
   width: 300px;
 }
+.upper__footer {
+  text-align: center;
+}
+.copy_right {
+  text-align: left;
+  margin-left: 20px;
+}

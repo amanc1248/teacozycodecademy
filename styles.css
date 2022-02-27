@@ -37,3 +37,25 @@ main {
   top: 50%;
   width: 1200px;
 }
+.tea_types {
+  /* text-align: center; */
+
+  display: flex;
+  justify-content: center;
+}
+.tea_types_div {
+  text-align: center;
+  width: 1000px;
+}
+.tea_types_container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.tea__type__container {
+  padding: 0 10px;
+}
+.tea__type__image {
+  height: 200px;
+  width: 300px;
+}

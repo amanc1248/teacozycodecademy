@@ -1,0 +1,39 @@
+body {
+  background-color: black;
+  color: seashell;
+  font-size: 22px;
+  font-family: Helvetica, sans-serif;
+  opacity: 0.9;
+}
+header {
+  height: 69px;
+  display: flex;
+  justify-content: space-between;
+  border-bottom: 1px solid seashell;
+  /* position: fixed; */
+}
+header img {
+  height: 50px;
+}
+ul {
+  display: flex;
+  list-style: none;
+}
+li {
+  text-decoration: underline;
+  padding: 0 10px;
+}
+.background_image {
+  height: 700px;
+  width: 1200px;
+}
+main {
+  margin: 0px 60px;
+}
+.our__mission {
+  text-align: center;
+  background-color: yellow;
+  position: absolute;
+  top: 50%;
+  width: 90%;
+}
